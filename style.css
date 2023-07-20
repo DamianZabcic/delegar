@@ -1,0 +1,62 @@
+/* ---------------------- hola */
+
+.imagen-fondo {
+    /* background-image: url(images/1.jpg);
+    background-size: cover; */
+}
+
+/* ---------------------- horarios */
+
+.horarios-texto-principal .horarios-texto {
+    margin: auto;
+    text-align: center;
+    /* width: 50%; */
+}
+
+@media (max-width: 992px) { 
+    .horarios-texto-principal br {
+        display: none;
+    }
+}
+
+.mañana {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+    height: 150px;
+    color: white;
+    cursor: pointer;
+}
+
+.tarde {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    height: 150px;
+    color: white;
+    cursor: pointer;
+}
+
+.mañana:hover {
+    opacity: 0.9;
+}
+
+.tarde:hover {
+    opacity: 0.9;
+}
+
+span {
+    margin-top: 40px;
+    font-size: 1.1rem;
+}
+
+/* ---------------------- contacto */
+
+.contacto {
+    margin: auto;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
