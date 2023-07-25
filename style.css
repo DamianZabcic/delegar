@@ -5,6 +5,25 @@
     background-size: cover; */
 }
 
+.foto-perfil {
+    width: 130px;
+}
+
+.flecha {
+    height: 40px;
+    padding-left: 20px;
+}
+
+@media (min-width: 768px) {
+    .foto-perfil {
+        width: 180px;
+    }
+    .flecha {
+        height: 50px;
+        padding-left: 70px;
+    }
+}
+
 /* ---------------------- horarios */
 
 .horarios-texto-principal .horarios-texto {
@@ -58,5 +77,8 @@ span {
     align-content: center;
     align-items: center;
     gap: 20px;
+}
 
+.contacto a {
+    text-decoration: none;
 }

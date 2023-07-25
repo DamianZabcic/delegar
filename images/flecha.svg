@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="79.416885mm"
+   height="38.368198mm"
+   viewBox="0 0 79.416885 38.368198"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="flecha.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.92648709"
+     inkscape:cx="127.90248"
+     inkscape:cy="39.396124"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.12192,-24.844995)">
+    <g
+       id="g1678"
+       transform="matrix(-1,0,0,0.80763831,165.66072,4.7792252)"
+       style="fill:#ffff70;fill-opacity:1">
+      <path
+         id="rect846"
+         style="fill:#ffff70;stroke-width:2.82279;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:12.2098;paint-order:stroke fill markers;stop-color:#000000;fill-opacity:1"
+         d="M 162.98047,93.902344 206.47266,183.67969 162.98047,273.45508 H 253.64648 L 297.13672,183.67969 253.64648,93.902344 Z"
+         transform="scale(0.26458333)" />
+      <path
+         id="rect846-6"
+         style="fill:#ffff70;stroke-width:0.746863;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:12.2098;paint-order:stroke fill markers;stop-color:#000000;fill-opacity:1"
+         d="M 78.046657,24.844995 89.553966,48.598584 78.046657,72.351656 H 91.452039 L 102.95936,48.598584 91.452039,24.844995 Z" />
+      <path
+         id="rect846-6-6"
+         style="fill:#ffff70;stroke-width:0.746863;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:12.2098;paint-order:stroke fill markers;stop-color:#000000;fill-opacity:1"
+         d="M 102.3886,24.844995 113.89592,48.598584 102.3886,72.351656 H 111.03149 L 122.5388,48.598584 111.03149,24.844995 Z" />
+    </g>
+  </g>
+</svg>
